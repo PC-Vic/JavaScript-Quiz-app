@@ -153,6 +153,8 @@ timeLeft -= 10
 
 }
 
+
+
 /*
 // this the event listener over the parent of choices
 //event.target.textContent allows us to grab the text of the button the user chose

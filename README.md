@@ -30,4 +30,4 @@ If you have any questions, suggestions, or feedback regarding the Coding Quiz Ch
 - GitHub: PC-Vic https://github.com/PC-Vic/JavaScript-Quiz-app
 
 ## Link to app
-http://127.0.0.1:5500/JavaScript-Quiz-app/index.html
+ https://pc-vic.github.io/JavaScript-Quiz-app/
